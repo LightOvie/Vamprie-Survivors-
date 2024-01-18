@@ -1,0 +1,1 @@
+This is not a full version of the game it's a demo with a weapon system but not with a reworked passive item system. I'll continue to work with this project.
