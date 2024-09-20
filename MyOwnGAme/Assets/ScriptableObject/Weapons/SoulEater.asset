@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae7f04c8f790894ea94f21e92721890, type: 3}
+  m_Name: SoulEater
+  m_EditorClassIdentifier: 
+  maxLevel: 1
+  icon: {fileID: 6594810811758223361, guid: 32705ed84316393409fcccd3e9c92b56, type: 3}
+  evolutionData: []
+  baseStats:
+    name: Soul Eater
+    description: 
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 2219697897659415646, guid: 5c57803a6d6ef4a4bb3c8350b8a44aac, type: 3}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifeSpan: 0
+    damage: 20
+    damageVariance: 5
+    area: 10
+    speed: 0
+    cooldown: 1
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  linearGrowth: []
+  randomGrowth: []
+  behaviour: AuraWeapon
